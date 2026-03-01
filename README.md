@@ -12,7 +12,7 @@ PanicLock is macOS menu bar utility that instantly disables Touch ID and locks t
 
 ## Features
 
-- **One-click panic lock** — Left-click the menu bar icon to instantly lock
+- **One-click panic lock** — Click the menu bar icon or press a hotkey to instantly lock
 - **Temporarily disables Touch ID** — Forces password-only unlock
 - **Auto-restore** — Original Touch ID settings restored after unlock
 - **Keyboard shortcut** — Configure a global hotkey (e.g., ⌃⌥⌘L)
